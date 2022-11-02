@@ -1,23 +1,24 @@
 <template>
   <ion-page>
-    <ion-content>
-      <ion-header :translucent="true">
-        <ion-toolbar>
-          <ion-grid>
-            <ion-row>
-              <ion-col>
-                <ion-title class="ion-float-left">Kolam</ion-title>
-              </ion-col>
-              <ion-col size="1">
-                <ion-icon src="assets/icon/Sorting.svg"></ion-icon>
-              </ion-col>
-              <ion-col size="1.1">
-                <ion-icon src="assets/icon/Vector.svg"></ion-icon>
-              </ion-col>
-            </ion-row>
-          </ion-grid>
-        </ion-toolbar>
-      </ion-header>
+    <ion-content :fullscreen="true">
+      <ion-grid>
+        <ion-header :translucent="true">
+          <ion-toolbar>
+            <ion-grid>
+              <ion-row>
+                <ion-col>
+                  <ion-title class="ion-float-left">Kolam</ion-title>
+                </ion-col>
+                <ion-col size="1">
+                  <ion-icon src="assets/img/Sorting.svg"></ion-icon>
+                </ion-col>
+                <ion-col size="1.1">
+                  <ion-icon src="assets/img/Vector.svg"></ion-icon>
+                </ion-col>
+              </ion-row>
+            </ion-grid>
+          </ion-toolbar>
+        </ion-header>
       <div>
         <ion-card class="box">
           <ion-card-header>
