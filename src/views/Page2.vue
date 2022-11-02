@@ -19,202 +19,203 @@
             </ion-grid>
           </ion-toolbar>
         </ion-header>
-      <div>
-        <ion-card class="box">
-          <ion-card-header>
-            <div class="cardhead">
-              <ion-card-title style="color: black; margin-top: 12px;">Alpha</ion-card-title>
-              <p class="active">Aktif</p>
-            </div>
-            <div class="garis"></div>
-          </ion-card-header>
-          <ion-card-content>
-            <ion-grid>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>01-09-2022</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>90 hari</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>200 Ekor</p>
-                </ion-col>
-              </ion-row>
-            </ion-grid>
-          </ion-card-content>
-        </ion-card>
+        <div>
+          <ion-card class="box">
+            <ion-card-header>
+              <div class="cardhead">
+                <ion-card-title style="color: black; margin-top: 12px;">Alpha</ion-card-title>
+                <p class="active">Aktif</p>
+              </div>
+              <div class="garis"></div>
+            </ion-card-header>
+            <ion-card-content>
+              <ion-grid>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>01-09-2022</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>90 hari</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>200 Ekor</p>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-card-content>
+          </ion-card>
 
-        <ion-card class="box">
-          <ion-card-header>
-            <div class="cardhead">
-              <ion-card-title style="color: black; margin-top: 12px;">Bravo</ion-card-title>
-              <p class="notActive">Tidak Aktif</p>
-            </div>
-            <div class="garis"></div>
-          </ion-card-header>
-          <ion-card-content>
-            <ion-grid>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>01-09-2022</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>90 hari</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>200 Ekor</p>
-                </ion-col>
-              </ion-row>
-            </ion-grid>
-          </ion-card-content>
-        </ion-card>
-        <ion-card class="box">
-          <ion-card-header>
-            <div class="cardhead">
-              <ion-card-title style="color: black; margin-top: 12px;">Charlie</ion-card-title>
-              <p class="active">Aktif</p>
-            </div>
-            <div class="garis"></div>
-          </ion-card-header>
+          <ion-card class="box">
+            <ion-card-header>
+              <div class="cardhead">
+                <ion-card-title style="color: black; margin-top: 12px;">Bravo</ion-card-title>
+                <p class="notActive">Tidak Aktif</p>
+              </div>
+              <div class="garis"></div>
+            </ion-card-header>
+            <ion-card-content>
+              <ion-grid>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>01-09-2022</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>90 hari</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>200 Ekor</p>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-card-content>
+          </ion-card>
+          <ion-card class="box">
+            <ion-card-header>
+              <div class="cardhead">
+                <ion-card-title style="color: black; margin-top: 12px;">Charlie</ion-card-title>
+                <p class="active">Aktif</p>
+              </div>
+              <div class="garis"></div>
+            </ion-card-header>
 
-          <ion-card-content>
-            <ion-grid>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>01-09-2022</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>90 hari</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>200 Ekor</p>
-                </ion-col>
-              </ion-row>
-            </ion-grid>
-          </ion-card-content>
-        </ion-card>
-        <ion-card class="box">
-          <ion-card-header>
-            <div class="cardhead">
-              <ion-card-title style="color: black; margin-top: 12px;">Delta</ion-card-title>
-              <p class="active">Aktif</p>
-            </div>
-            <div class="garis"></div>
-          </ion-card-header>
+            <ion-card-content>
+              <ion-grid>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>01-09-2022</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>90 hari</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>200 Ekor</p>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-card-content>
+          </ion-card>
+          <ion-card class="box">
+            <ion-card-header>
+              <div class="cardhead">
+                <ion-card-title style="color: black; margin-top: 12px;">Delta</ion-card-title>
+                <p class="active">Aktif</p>
+              </div>
+              <div class="garis"></div>
+            </ion-card-header>
 
-          <ion-card-content>
-            <ion-grid>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>01-09-2022</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>90 hari</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>200 Ekor</p>
-                </ion-col>
-              </ion-row>
-            </ion-grid>
-          </ion-card-content>
-        </ion-card>
-        <ion-card class="box">
-          <ion-card-header>
-            <div class="cardhead">
-              <ion-card-title style="color: black; margin-top: 12px;">Epsilon</ion-card-title>
-              <p class="active">Aktif</p>
-            </div>
-            <div class="garis"></div>
-          </ion-card-header>
+            <ion-card-content>
+              <ion-grid>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>01-09-2022</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>90 hari</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>200 Ekor</p>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-card-content>
+          </ion-card>
+          <ion-card class="box">
+            <ion-card-header>
+              <div class="cardhead">
+                <ion-card-title style="color: black; margin-top: 12px;">Epsilon</ion-card-title>
+                <p class="active">Aktif</p>
+              </div>
+              <div class="garis"></div>
+            </ion-card-header>
 
-          <ion-card-content>
-            <ion-grid>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>01-09-2022</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>90 hari</p>
-                </ion-col>
-              </ion-row>
-              <ion-row class="ion-justify-conten-start">
-                <ion-col size="1">
-                  <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
-                </ion-col>
-                <ion-col size="auto">
-                  <p>200 Ekor</p>
-                </ion-col>
-              </ion-row>
-            </ion-grid>
-          </ion-card-content>
-        </ion-card>
-      </div>
-      <ion-fab vertical="bottom" horizontal="end" slot="fixed">
-        <ion-fab-button>
-          <ion-icon :icon="add"></ion-icon>
-        </ion-fab-button>
-      </ion-fab>
+            <ion-card-content>
+              <ion-grid>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Calendar Plus.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>01-09-2022</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Timesheet.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>90 hari</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-conten-start">
+                  <ion-col size="1">
+                    <ion-icon src="assets/icon/Whole Fish.svg"></ion-icon>
+                  </ion-col>
+                  <ion-col size="auto">
+                    <p>200 Ekor</p>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-card-content>
+          </ion-card>
+        </div>
+        <ion-fab vertical="bottom" horizontal="end" slot="fixed">
+          <ion-fab-button>
+            <ion-icon :icon="add"></ion-icon>
+          </ion-fab-button>
+        </ion-fab>
+      </ion-grid>
     </ion-content>
   </ion-page>
 </template>
@@ -223,7 +224,6 @@
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonIcon, IonFab, IonFabButton, IonCol, IonGrid, IonRow } from '@ionic/vue';
 import { add } from 'ionicons/icons';
 import { defineComponent } from 'vue';
-
 export default defineComponent({
   name: 'PageSecond',
   components: {
@@ -261,9 +261,7 @@ export default defineComponent({
 #container p {
   font-size: 16px;
   line-height: 22px;
-
   color: #8c8c8c;
-
   margin: 0;
 }
 
@@ -330,4 +328,3 @@ ion-col {
   font-size: 15px;
 }
 </style>
-  
